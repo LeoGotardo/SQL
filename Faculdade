@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T20:07:54.337Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 OPR/94.0.0.0 (Edition std-1)" etag="YQTly7CPTSDXgUP8-lOb" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-22T20:09:09.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 OPR/94.0.0.0" etag="oxWKijm0JUxw3s2bT0gK" version="20.8.23" type="github">
   <diagram name="Página-1" id="4Hav_kApsq_vv5NUrCVf">
-    <mxGraphModel dx="1788" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1863" dy="1001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -243,11 +243,23 @@
         <mxCell id="z_Arp6Fn8xKdFzTUOaZJ-76" value="Curso_Disciplina" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tuIaegLWaLStvQOok2xE-1" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="tuIaegLWaLStvQOok2xE-1" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="280" y="600" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tuIaegLWaLStvQOok2xE-2" value="" style="rhombus;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="tuIaegLWaLStvQOok2xE-2" value="" style="rhombus;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="400" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FKtzeLa9XzrQsFfDzmHd-1" value="Pertence" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FKtzeLa9XzrQsFfDzmHd-2" value="Cursa" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="740" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FKtzeLa9XzrQsFfDzmHd-3" value="Compõe" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="820" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FKtzeLa9XzrQsFfDzmHd-4" value="Depende" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="900" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
