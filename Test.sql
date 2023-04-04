@@ -21,8 +21,15 @@ insert into NomeDaTabela values(1, "Colombia"); -- Adiciona valores a uma tabela
 
 select * from NomeDaTabela; -- Mostra a tabela selecionada.
 
-show schemas;
+show schemas; -- Mostra os esquemas.
+show databases; -- Mostra as data baases.
 
-show databases;
+show table status; -- Mostra  info.
 
-show table status;
+show create table NomeDaTabela; -- Monstra info.
+
+show columns from NomeDaTabela; -- Mostra colunas da tabela.
+
+describe NomeDaTabela; -- Mostra tabela.
+
+desc NomeDaTbela; -- Mesma coisa do describe.
