@@ -20,3 +20,9 @@ create table OutraTabela(
 insert into NomeDaTabela values(1, "Colombia"); -- Adiciona valores a uma tabela.
 
 select * from NomeDaTabela; -- Mostra a tabela selecionada.
+
+show schemas;
+
+show databases;
+
+show table status;
