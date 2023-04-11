@@ -56,7 +56,7 @@ insert into cidades(nome, UF, id_pais) values
 ("Barracão", "PR", 1),
 ("Dionísio Cerqueira", "SC", 1),
 ("Buenos Aires", NULL, 2),
-("Curitiba", NULL, 1);
+("Pirapora do Oeste", NULL, 1);
 
 
 SELECT * FROM paises;
